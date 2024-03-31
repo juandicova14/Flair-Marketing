@@ -1,0 +1,114 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.Banner{
+    width: 100%;
+}
+
+.principal {
+    padding: 3em 15em;
+    width: 1000px;
+    margin: 0 auto;   
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.si{
+    text-align: left;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.no{
+    text-align: left;
+    margin: 0 0 1em;
+    clear: left;
+}
+
+.talvez{
+    text-align: right;
+    margin: 0 0 1em;
+    clear: right;
+}
+
+.principal p{
+    margin: 0 0 2em;
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
+
+
+.juego{
+    
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.ODS{
+    width: 30%;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+.servicios{
+    width: 35%;
+    height: 30%;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.imgtabla {
+    max-width: 100%;
+    height: auto;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+}
